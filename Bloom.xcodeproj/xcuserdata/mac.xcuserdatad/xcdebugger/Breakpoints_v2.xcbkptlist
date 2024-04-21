@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BC4867DB-5DC7-4D09-BA3B-470B0E9EA1CC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "9D805830-A029-4CA6-9CEE-BF05F539B9FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF48CE62-E342-4843-A988-502A6BE08A23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/Login/ResestPasswordVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A78D75C9-84AF-4587-A197-24DBEFD4A6AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/Networking/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "performRequest(with:method:body:showLoader:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64D6433E-CD0E-49F2-832C-1A48F24C5F4F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/Networking/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "performRequest(with:method:body:showLoader:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D1F4039-F674-4B52-B0CA-E46157E83D82"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/Networking/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "performRequest(with:method:body:showLoader:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D1F4039-F674-4B52-B0CA-E46157E83D82 - 9bd57ae49d02b226"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1664">
+               </Location>
+               <Location
+                  uuid = "8D1F4039-F674-4B52-B0CA-E46157E83D82 - 9bd57ae49d02b226"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "2160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "394AAD6F-6D4E-4116-B85D-067D6EF7D4B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/Networking/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "performRequest(with:method:body:showLoader:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "394AAD6F-6D4E-4116-B85D-067D6EF7D4B5 - 9bd57ae49d02ad9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "2004">
+               </Location>
+               <Location
+                  uuid = "394AAD6F-6D4E-4116-B85D-067D6EF7D4B5 - 9bd57ae49d02ad9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "2468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD90B137-D2C2-41EF-8E5B-8EDA4DA53B1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/Login/ResestPasswordVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "newPassword()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD90B137-D2C2-41EF-8E5B-8EDA4DA53B1F - 2274a0bac3b06ba8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  uuid = "AD90B137-D2C2-41EF-8E5B-8EDA4DA53B1F - 85d553bb3d4347f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "AD90B137-D2C2-41EF-8E5B-8EDA4DA53B1F - 2274a0bac3b06ba8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "852">
+               </Location>
+               <Location
+                  uuid = "AD90B137-D2C2-41EF-8E5B-8EDA4DA53B1F - 85d553bb3d4347f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC6CE9F8-B36B-44E9-ACE7-A09DFFDBB5D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/Login/ResestPasswordVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "newPassword()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC6CE9F8-B36B-44E9-ACE7-A09DFFDBB5D9 - 85d553bb3d4340c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1480">
+               </Location>
+               <Location
+                  uuid = "AC6CE9F8-B36B-44E9-ACE7-A09DFFDBB5D9 - 85d553bb3d4340c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19A23FA2-FCC5-444F-BB93-54E2F4B2CD14"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/Login/ResestPasswordVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "newPassword()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "19A23FA2-FCC5-444F-BB93-54E2F4B2CD14 - 85d553bb3d4340ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "972">
+               </Location>
+               <Location
+                  uuid = "19A23FA2-FCC5-444F-BB93-54E2F4B2CD14 - 85d553bb3d4340ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1408">
+               </Location>
+               <Location
+                  uuid = "19A23FA2-FCC5-444F-BB93-54E2F4B2CD14 - 85d553bb3d4340ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  uuid = "19A23FA2-FCC5-444F-BB93-54E2F4B2CD14 - 85d553bb3d4340ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "849959AF-DF98-4DDE-8A48-995C3F8AC0EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/Login/ResestPasswordVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "newPassword()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "849959AF-DF98-4DDE-8A48-995C3F8AC0EC - 85d553bb3d4341c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2116">
+               </Location>
+               <Location
+                  uuid = "849959AF-DF98-4DDE-8A48-995C3F8AC0EC - 85d553bb3d4341c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ResestPasswordVC.newPassword() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Auth/Login/ResestPasswordVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8696270E-0106-42ED-912A-DF2D82F6F57C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "journalHighlight()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8696270E-0106-42ED-912A-DF2D82F6F57C - 2f492a1e47763b97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.MoodProgressReViewController.journalHighlight() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "8696270E-0106-42ED-912A-DF2D82F6F57C - 58af9b8d6be36f69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.MoodProgressReViewController.moodProgress() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B0337CB-034C-4645-A1F7-A5AF0107635C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "journalHighlight()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2B0337CB-034C-4645-A1F7-A5AF0107635C - 2f492a1e47763851"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.MoodProgressReViewController.journalHighlight() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "2B0337CB-034C-4645-A1F7-A5AF0107635C - 40fd9735b2a9c9c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.MoodProgressReViewController.journalHighlight() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "2B0337CB-034C-4645-A1F7-A5AF0107635C - 58af9b8d6be36f2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.MoodProgressReViewController.moodProgress() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E37A2598-CB4D-48DD-A955-90B3558E9E88"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E37A2598-CB4D-48DD-A955-90B3558E9E88 - eceb4ce6e8169c62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.MoodProgressReViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "E37A2598-CB4D-48DD-A955-90B3558E9E88 - eceb4ce6e8169c62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.MoodProgressReViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC77722C-E757-4014-A139-BD78ACC77B7A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "moodProgress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC77722C-E757-4014-A139-BD78ACC77B7A - a28df2f095566f84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.MoodProgressReViewController.moodProgress() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "AC77722C-E757-4014-A139-BD78ACC77B7A - a28df2f095566fa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.MoodProgressReViewController.moodProgress() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A75A5CD-80A4-47E9-8990-8702C2058B59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A75A5CD-80A4-47E9-8990-8702C2058B59 - eceb4ce6e8169c41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.MoodProgressReViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "5A75A5CD-80A4-47E9-8990-8702C2058B59 - eceb4ce6e8169c62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.MoodProgressReViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A592700B-7FA2-4E46-B10E-DA4C76C9B5FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "moodProgress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A592700B-7FA2-4E46-B10E-DA4C76C9B5FE - a28df2f095566f7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.MoodProgressReViewController.moodProgress() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "A592700B-7FA2-4E46-B10E-DA4C76C9B5FE - 58af9b8d6be36a99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.MoodProgressReViewController.moodProgress() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "A592700B-7FA2-4E46-B10E-DA4C76C9B5FE - 58af9b8d6be36d78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.MoodProgressReViewController.moodProgress() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "A592700B-7FA2-4E46-B10E-DA4C76C9B5FE - 58af9b8d6be36d78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.MoodProgressReViewController.moodProgress() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64F41629-7DDE-4B6B-9F14-1996B4AD33C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "moodProgress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64F41629-7DDE-4B6B-9F14-1996B4AD33C1 - 58af9b8d6be36d5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.MoodProgressReViewController.moodProgress() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "64F41629-7DDE-4B6B-9F14-1996B4AD33C1 - 58af9b8d6be36d5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.MoodProgressReViewController.moodProgress() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "64F41629-7DDE-4B6B-9F14-1996B4AD33C1 - 58af9b8d6be36d3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.MoodProgressReViewController.moodProgress() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/MoodProcess/MoodProgressReViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32CD5126-811A-4092-B3CF-AE1EFED75A00"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Journal/JournalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "grtJournalData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "32CD5126-811A-4092-B3CF-AE1EFED75A00 - aa92f364e9dc8d49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.JournalViewController.journalTableApi() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Journal/JournalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "32CD5126-811A-4092-B3CF-AE1EFED75A00 - aa92f364e9dc8d49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.JournalViewController.journalTableApi() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Journal/JournalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "32CD5126-811A-4092-B3CF-AE1EFED75A00 - 70d112d46f8acf4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.JournalViewController.grtJournalData() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Journal/JournalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F879FDF-4244-498E-85E7-0D601B18EB45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Journal/JournalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7562AAA-D003-43DD-A07A-9ABF3DF19B09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Journal/JournalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "grtJournalData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E7562AAA-D003-43DD-A07A-9ABF3DF19B09 - aaaf0d1a20def9dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.JournalViewController.journalTableApi() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Journal/JournalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "E7562AAA-D003-43DD-A07A-9ABF3DF19B09 - 23f6ce04a8bd4990"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.JournalViewController.grtJournalData() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Journal/JournalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78A1C054-80C9-4EBB-95D6-FD042073DE05"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Journal/JournalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "grtJournalData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F554EAF-7BE2-4DE4-A17B-138BB05D396E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Journal/JournalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "grtJournalData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7F554EAF-7BE2-4DE4-A17B-138BB05D396E - 70d112d46f8ace24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.JournalViewController.grtJournalData() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Journal/JournalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "7F554EAF-7BE2-4DE4-A17B-138BB05D396E - 23f6ce04a8bd4a14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.JournalViewController.grtJournalData() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/IOS%20Projects/Bloom/Code/Bloom/Bloom/View/Journal/JournalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24E68D12-13FC-410C-87A3-963DA89B2675"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/Networking/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "performRequest(with:method:body:showLoader:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5F9C79F-A36A-4B9D-9189-AABBB23CC428"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/Networking/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "performRequest(with:method:body:showLoader:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

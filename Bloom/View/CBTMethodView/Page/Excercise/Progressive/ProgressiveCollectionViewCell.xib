@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22684"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ProgressiveCollectionViewCell" id="gTV-IL-0wX" customClass="ProgressiveCollectionViewCell" customModule="Bloom" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="378" height="500"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="378" height="500"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Guidance:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ge5-0g-SDl">
+                        <rect key="frame" x="0.0" y="10" width="378" height="15.666666666666664"/>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jzW-TY-rkq">
+                        <rect key="frame" x="0.0" y="60.666666666666664" width="4" height="3.9999999999999929"/>
+                        <color key="backgroundColor" systemColor="labelColor"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="4" id="40m-hd-VK1"/>
+                            <constraint firstAttribute="height" constant="4" id="MDM-CG-DgU"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tsr-Wv-mBO">
+                        <rect key="frame" x="14" y="50.666666666666657" width="354" height="40"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="40" id="rth-NE-lyc"/>
+                        </constraints>
+                        <string key="text">Find a comfortable position: Sit with feet planted shoulder-width apart, flat on the ground, or lie down.
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fnc-sa-cNi">
+                        <rect key="frame" x="0.0" y="96.666666666666671" width="4" height="4"/>
+                        <color key="backgroundColor" systemColor="labelColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="4" id="Meh-ys-Rt4"/>
+                            <constraint firstAttribute="width" constant="4" id="oOd-Dj-Vex"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xF0-6P-Qxf">
+                        <rect key="frame" x="14" y="90.666666666666671" width="354" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="yO2-F1-Dzp"/>
+                        </constraints>
+                        <string key="text">Prepare to tense and relax muscles systematically, one by one.
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="APH-SC-ELD">
+                        <rect key="frame" x="0.0" y="133.66666666666666" width="4" height="4"/>
+                        <color key="backgroundColor" systemColor="labelColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="4" id="V8l-w4-KQ6"/>
+                            <constraint firstAttribute="width" constant="4" id="bmY-4u-9OE"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4P6-kt-kJ4">
+                        <rect key="frame" x="14" y="125.66666666666669" width="354" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="0hc-Pk-DEX"/>
+                        </constraints>
+                        <string key="text">Focus on a target muscle group, such as hands.
+
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jHX-lR-H1y">
+                        <rect key="frame" x="0.0" y="158.66666666666666" width="4" height="4"/>
+                        <color key="backgroundColor" systemColor="labelColor"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="4" id="Kzh-SA-b0Q"/>
+                            <constraint firstAttribute="height" constant="4" id="nAl-Bb-JwZ"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wVc-QQ-PKj">
+                        <rect key="frame" x="14" y="150.66666666666666" width="354" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="qgX-mW-RoU"/>
+                        </constraints>
+                        <string key="text">Take a slow, deep breath.
+
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ZgX-fZ-1P3">
+                        <rect key="frame" x="0.0" y="182.66666666666666" width="4" height="4"/>
+                        <color key="backgroundColor" systemColor="labelColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="4" id="Nys-TL-Mq2"/>
+                            <constraint firstAttribute="width" constant="4" id="aZs-rR-ELl"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="M9x-WU-Zls">
+                        <rect key="frame" x="14" y="175.66666666666666" width="354" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="V8J-TX-9JL"/>
+                        </constraints>
+                        <string key="text">Squeeze the muscles in the target group as hard as possible for 5-10 seconds.
+
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3Yj-rm-l9u">
+                        <rect key="frame" x="0.0" y="216.66666666666666" width="4" height="4"/>
+                        <color key="backgroundColor" systemColor="labelColor"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="4" id="Itu-vi-CAh"/>
+                            <constraint firstAttribute="height" constant="4" id="ymu-A4-7TG"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qpr-Ng-JD5">
+                        <rect key="frame" x="14" y="210.66666666666666" width="354" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="4uE-Ub-aGP"/>
+                        </constraints>
+                        <string key="text">Quickly relax the tensed muscles, letting all tightness flow out.
+
+
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Rtm-oz-gg6">
+                        <rect key="frame" x="0.0" y="253.66666666666666" width="4" height="3.9999999999999716"/>
+                        <color key="backgroundColor" systemColor="labelColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="4" id="9w9-Br-CAL"/>
+                            <constraint firstAttribute="width" constant="4" id="W2V-qT-SHT"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yXm-CR-aEP">
+                        <rect key="frame" x="14" y="245.66666666666666" width="354" height="19.999999999999972"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="kFk-0j-Mo5"/>
+                        </constraints>
+                        <string key="text">Exhale during relaxation.
+
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="aFb-x3-EmX">
+                        <rect key="frame" x="0.0" y="277.66666666666669" width="4" height="4"/>
+                        <color key="backgroundColor" systemColor="labelColor"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="4" id="54B-S5-6Cr"/>
+                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="4" id="kNd-D7-SnT"/>
+                            <constraint firstAttribute="height" constant="4" id="nUc-kq-R8F"/>
+                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="4" id="uOK-s8-6ND"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mmM-Bx-Yie">
+                        <rect key="frame" x="14" y="270.66666666666669" width="354" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="0ff-rV-IdK"/>
+                        </constraints>
+                        <string key="text">Repeat this process with each muscle group, moving systematically throughout the body.
+
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tlx-ak-T0I">
+                        <rect key="frame" x="20" y="330.66666666666669" width="338" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="cP1-8h-BHx"/>
+                        </constraints>
+                        <string key="text">On the following page, you will discover a list of all muscle groups.
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <color key="backgroundColor" name="bgColor"/>
+            <constraints>
+                <constraint firstItem="tlx-ak-T0I" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="20" id="05g-e2-XkH"/>
+                <constraint firstItem="wVc-QQ-PKj" firstAttribute="trailing" secondItem="4P6-kt-kJ4" secondAttribute="trailing" id="0cJ-zq-03a"/>
+                <constraint firstItem="tsr-Wv-mBO" firstAttribute="top" secondItem="ge5-0g-SDl" secondAttribute="bottom" constant="25" id="2Zn-Vk-fVI"/>
+                <constraint firstItem="xF0-6P-Qxf" firstAttribute="top" secondItem="tsr-Wv-mBO" secondAttribute="bottom" id="3ol-1y-Fo4"/>
+                <constraint firstItem="fnc-sa-cNi" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="9HD-L3-sQa"/>
+                <constraint firstItem="Qpr-Ng-JD5" firstAttribute="top" secondItem="M9x-WU-Zls" secondAttribute="bottom" constant="5" id="9mM-fT-gE2"/>
+                <constraint firstItem="4P6-kt-kJ4" firstAttribute="trailing" secondItem="xF0-6P-Qxf" secondAttribute="trailing" id="AER-7U-sfV"/>
+                <constraint firstItem="Rtm-oz-gg6" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="AxI-R1-CCY"/>
+                <constraint firstItem="APH-SC-ELD" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="GUi-rl-APU"/>
+                <constraint firstItem="jzW-TY-rkq" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="GeV-V5-Bxk"/>
+                <constraint firstItem="aFb-x3-EmX" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="ITj-pU-GDD"/>
+                <constraint firstItem="3Yj-rm-l9u" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="ITv-1w-8fM"/>
+                <constraint firstItem="Rtm-oz-gg6" firstAttribute="centerY" secondItem="yXm-CR-aEP" secondAttribute="centerY" id="N9S-uf-K1V"/>
+                <constraint firstItem="M9x-WU-Zls" firstAttribute="top" secondItem="wVc-QQ-PKj" secondAttribute="bottom" constant="5" id="NfF-tg-hOE"/>
+                <constraint firstItem="ZgX-fZ-1P3" firstAttribute="top" secondItem="jHX-lR-H1y" secondAttribute="bottom" constant="20" id="Off-ls-ral"/>
+                <constraint firstAttribute="trailing" secondItem="tlx-ak-T0I" secondAttribute="trailing" constant="20" id="PyR-hK-GFq"/>
+                <constraint firstItem="yXm-CR-aEP" firstAttribute="top" secondItem="Qpr-Ng-JD5" secondAttribute="bottom" constant="5" id="Qk4-xR-JAC"/>
+                <constraint firstItem="APH-SC-ELD" firstAttribute="centerY" secondItem="4P6-kt-kJ4" secondAttribute="centerY" id="S1F-d9-w8Q"/>
+                <constraint firstItem="tlx-ak-T0I" firstAttribute="centerX" secondItem="ZTg-uK-7eu" secondAttribute="centerX" id="UYC-sw-Dqu"/>
+                <constraint firstItem="jHX-lR-H1y" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="Vqp-on-JeG"/>
+                <constraint firstItem="mmM-Bx-Yie" firstAttribute="top" secondItem="yXm-CR-aEP" secondAttribute="bottom" constant="5" id="Wus-eb-5QH"/>
+                <constraint firstItem="wVc-QQ-PKj" firstAttribute="leading" secondItem="4P6-kt-kJ4" secondAttribute="leading" id="YJa-aP-tDg"/>
+                <constraint firstItem="fnc-sa-cNi" firstAttribute="bottom" secondItem="tsr-Wv-mBO" secondAttribute="bottom" constant="10" id="bX5-Sl-A2e"/>
+                <constraint firstItem="tsr-Wv-mBO" firstAttribute="leading" secondItem="jzW-TY-rkq" secondAttribute="trailing" constant="10" id="cSu-29-Lgf"/>
+                <constraint firstItem="xF0-6P-Qxf" firstAttribute="leading" secondItem="tsr-Wv-mBO" secondAttribute="leading" id="ekq-E9-oFa"/>
+                <constraint firstItem="ge5-0g-SDl" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="10" id="fFm-QO-eDT"/>
+                <constraint firstItem="yXm-CR-aEP" firstAttribute="leading" secondItem="Qpr-Ng-JD5" secondAttribute="leading" id="fUY-Yc-DiB"/>
+                <constraint firstItem="wVc-QQ-PKj" firstAttribute="top" secondItem="4P6-kt-kJ4" secondAttribute="bottom" constant="5" id="gCQ-tK-xhp"/>
+                <constraint firstItem="M9x-WU-Zls" firstAttribute="trailing" secondItem="wVc-QQ-PKj" secondAttribute="trailing" id="hoG-C1-iRI"/>
+                <constraint firstItem="tlx-ak-T0I" firstAttribute="top" secondItem="mmM-Bx-Yie" secondAttribute="bottom" constant="30" id="jup-PL-A7G"/>
+                <constraint firstItem="aFb-x3-EmX" firstAttribute="top" secondItem="Rtm-oz-gg6" secondAttribute="bottom" constant="20" id="k9G-hg-HZZ"/>
+                <constraint firstItem="xF0-6P-Qxf" firstAttribute="trailing" secondItem="tsr-Wv-mBO" secondAttribute="trailing" id="l3s-tL-4Xp"/>
+                <constraint firstItem="Qpr-Ng-JD5" firstAttribute="leading" secondItem="M9x-WU-Zls" secondAttribute="leading" id="lyt-Jg-OQ0"/>
+                <constraint firstItem="ZgX-fZ-1P3" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="mcE-s4-r7I"/>
+                <constraint firstAttribute="trailing" secondItem="tsr-Wv-mBO" secondAttribute="trailing" constant="10" id="nhL-mM-0Sm"/>
+                <constraint firstAttribute="trailing" secondItem="ge5-0g-SDl" secondAttribute="trailing" id="nwv-Ld-clT"/>
+                <constraint firstItem="yXm-CR-aEP" firstAttribute="trailing" secondItem="Qpr-Ng-JD5" secondAttribute="trailing" id="o4c-LR-29O"/>
+                <constraint firstItem="jzW-TY-rkq" firstAttribute="top" secondItem="ge5-0g-SDl" secondAttribute="bottom" constant="35" id="ol2-Bw-qKE"/>
+                <constraint firstItem="4P6-kt-kJ4" firstAttribute="leading" secondItem="xF0-6P-Qxf" secondAttribute="leading" id="qLo-m2-3Az"/>
+                <constraint firstItem="jHX-lR-H1y" firstAttribute="centerY" secondItem="wVc-QQ-PKj" secondAttribute="centerY" id="rKd-SN-XT0"/>
+                <constraint firstItem="3Yj-rm-l9u" firstAttribute="top" secondItem="ZgX-fZ-1P3" secondAttribute="bottom" constant="30" id="sLs-73-KwI"/>
+                <constraint firstItem="M9x-WU-Zls" firstAttribute="leading" secondItem="wVc-QQ-PKj" secondAttribute="leading" id="sXs-CM-Pez"/>
+                <constraint firstItem="ge5-0g-SDl" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="t8u-Hx-vkW"/>
+                <constraint firstItem="mmM-Bx-Yie" firstAttribute="leading" secondItem="yXm-CR-aEP" secondAttribute="leading" id="tOg-ZB-uKh"/>
+                <constraint firstItem="mmM-Bx-Yie" firstAttribute="trailing" secondItem="yXm-CR-aEP" secondAttribute="trailing" id="uhk-kZ-tbK"/>
+                <constraint firstItem="4P6-kt-kJ4" firstAttribute="top" secondItem="xF0-6P-Qxf" secondAttribute="bottom" constant="5" id="uxO-Hf-dtv"/>
+                <constraint firstItem="Qpr-Ng-JD5" firstAttribute="trailing" secondItem="M9x-WU-Zls" secondAttribute="trailing" id="x7C-3h-95u"/>
+            </constraints>
+            <point key="canvasLocation" x="129.7709923664122" y="-11.267605633802818"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <namedColor name="bgColor">
+            <color red="0.94099998474121094" green="0.9179999828338623" blue="0.83899998664855957" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

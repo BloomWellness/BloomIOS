@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22684"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Mindful1CollectionViewCell" id="gTV-IL-0wX" customClass="Mindful1CollectionViewCell" customModule="Bloom" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="378" height="633"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="378" height="633"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="There are 3 simple steps to this technique:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hKx-MV-qC6">
+                        <rect key="frame" x="0.0" y="10" width="378" height="15.666666666666664"/>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="9kM-Bf-t3H">
+                        <rect key="frame" x="0.0" y="60.666666666666664" width="4" height="3.9999999999999929"/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="4" id="LRJ-Hj-28C"/>
+                            <constraint firstAttribute="width" constant="4" id="qgk-Be-h3u"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7AA-pI-hgM">
+                        <rect key="frame" x="9" y="55.666666666666657" width="364" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="Ka5-oW-AO9"/>
+                        </constraints>
+                        <string key="text">Initially, inhale through your nostrils for a duration of four seconds.
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jd7-xd-U97">
+                        <rect key="frame" x="0.0" y="97.666666666666671" width="4" height="4"/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="4" id="5fe-68-EaH"/>
+                            <constraint firstAttribute="width" constant="4" id="Uxs-KS-7HQ"/>
+                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="4" id="ZJU-ly-ua4"/>
+                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="4" id="wR6-CX-eNt"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0TN-Pe-zDu">
+                        <rect key="frame" x="9" y="90.666666666666671" width="364" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="ABd-cd-mbt"/>
+                        </constraints>
+                        <string key="text">Subsequently, retain your breath for a span of seven seconds, or for however long you're able.
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rvC-ob-qW2">
+                        <rect key="frame" x="0.0" y="131.66666666666666" width="4" height="4"/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" relation="lessThanOrEqual" constant="4" id="4Lf-rD-u6O"/>
+                            <constraint firstAttribute="height" constant="4" id="7dT-cs-cLO"/>
+                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="4" id="W3U-sY-nhj"/>
+                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="4" id="fTj-GS-fuU"/>
+                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="4" id="p6E-lg-SJe"/>
+                            <constraint firstAttribute="width" constant="4" id="xap-Cw-aVT"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nFl-yt-BsX">
+                        <rect key="frame" x="9" y="125.66666666666669" width="364" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="9Q0-Er-o7u"/>
+                        </constraints>
+                        <string key="text">Lastly, exhale audibly through your mouth, ensuring the exhalation lasts a total of eight seconds. It's crucial that the exhalation phase is the lengthiest.</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Wr3-CR-O1E">
+                        <rect key="frame" x="0.0" y="165.66666666666663" width="378" height="240"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="240" id="lZf-qc-lmz"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <color key="backgroundColor" name="bgColor"/>
+            <constraints>
+                <constraint firstItem="9kM-Bf-t3H" firstAttribute="top" secondItem="hKx-MV-qC6" secondAttribute="bottom" constant="35" id="066-4M-K5X"/>
+                <constraint firstItem="Wr3-CR-O1E" firstAttribute="top" secondItem="nFl-yt-BsX" secondAttribute="bottom" constant="10" id="1Ib-pf-aF7"/>
+                <constraint firstItem="Wr3-CR-O1E" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="26M-xe-4fa"/>
+                <constraint firstAttribute="trailing" secondItem="Wr3-CR-O1E" secondAttribute="trailing" id="7bg-6t-jxC"/>
+                <constraint firstItem="rvC-ob-qW2" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="7z8-L5-8bl"/>
+                <constraint firstItem="0TN-Pe-zDu" firstAttribute="top" secondItem="7AA-pI-hgM" secondAttribute="bottom" constant="5" id="BI9-WT-5fd"/>
+                <constraint firstAttribute="trailing" secondItem="7AA-pI-hgM" secondAttribute="trailing" constant="5" id="Cfs-bg-CmN"/>
+                <constraint firstItem="rvC-ob-qW2" firstAttribute="top" secondItem="jd7-xd-U97" secondAttribute="bottom" constant="30" id="OMG-TS-2Ko"/>
+                <constraint firstItem="jd7-xd-U97" firstAttribute="top" secondItem="9kM-Bf-t3H" secondAttribute="bottom" constant="33" id="PAJ-6Y-G8f"/>
+                <constraint firstItem="7AA-pI-hgM" firstAttribute="top" secondItem="hKx-MV-qC6" secondAttribute="bottom" constant="30" id="PJ5-HM-Vgf"/>
+                <constraint firstItem="nFl-yt-BsX" firstAttribute="leading" secondItem="0TN-Pe-zDu" secondAttribute="leading" id="UGX-4Z-d8b"/>
+                <constraint firstItem="jd7-xd-U97" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="Wux-uG-Nbo"/>
+                <constraint firstItem="0TN-Pe-zDu" firstAttribute="trailing" secondItem="7AA-pI-hgM" secondAttribute="trailing" id="lHw-ZT-zbY"/>
+                <constraint firstAttribute="trailing" secondItem="hKx-MV-qC6" secondAttribute="trailing" id="lSf-NY-ogw"/>
+                <constraint firstItem="7AA-pI-hgM" firstAttribute="leading" secondItem="9kM-Bf-t3H" secondAttribute="trailing" constant="5" id="noS-7c-afG"/>
+                <constraint firstItem="hKx-MV-qC6" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="10" id="p0S-Rz-iH2"/>
+                <constraint firstItem="nFl-yt-BsX" firstAttribute="trailing" secondItem="0TN-Pe-zDu" secondAttribute="trailing" id="qEm-XL-HIH"/>
+                <constraint firstItem="nFl-yt-BsX" firstAttribute="top" secondItem="0TN-Pe-zDu" secondAttribute="bottom" constant="5" id="raA-EN-Zhw"/>
+                <constraint firstItem="0TN-Pe-zDu" firstAttribute="leading" secondItem="7AA-pI-hgM" secondAttribute="leading" id="wEE-hM-l7R"/>
+                <constraint firstItem="hKx-MV-qC6" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="yKe-MC-t33"/>
+                <constraint firstItem="9kM-Bf-t3H" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="yV6-jC-4Kd"/>
+            </constraints>
+            <connections>
+                <outlet property="gifImageView" destination="Wr3-CR-O1E" id="Aop-jX-Etk"/>
+            </connections>
+            <point key="canvasLocation" x="131" y="-11"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <namedColor name="bgColor">
+            <color red="0.94099998474121094" green="0.9179999828338623" blue="0.83899998664855957" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22684"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Mindful2CollectionViewCell" id="gTV-IL-0wX" customClass="Mindful2CollectionViewCell" customModule="Bloom" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="376" height="633"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="376" height="633"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oSo-3J-dmO">
+                        <rect key="frame" x="0.0" y="9.9999999999999929" width="376" height="116.33333333333331"/>
+                        <string key="text">That concludes the technique!
+
+If you encounter difficulty sustaining any of the steps, don't fret; consider slightly accelerating the process. Remember, the 4:7:8 ratio holds greater significance than the duration of each phase.
+
+The paramount focus lies in ensuring the exhalation surpasses the inhalation, while also incorporating a pause between breaths.</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <color key="backgroundColor" name="bgColor"/>
+            <constraints>
+                <constraint firstItem="oSo-3J-dmO" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="10" id="V0I-4k-Pbc"/>
+                <constraint firstAttribute="trailing" secondItem="oSo-3J-dmO" secondAttribute="trailing" id="ZO0-Bw-9sb"/>
+                <constraint firstItem="oSo-3J-dmO" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="iGv-v6-z00"/>
+            </constraints>
+            <point key="canvasLocation" x="129.7709923664122" y="-11.267605633802818"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <namedColor name="bgColor">
+            <color red="0.94099998474121094" green="0.9179999828338623" blue="0.83899998664855957" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

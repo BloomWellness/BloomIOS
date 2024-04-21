@@ -1,0 +1,16 @@
+PODS:
+  - CoreCharts (1.0.7)
+
+DEPENDENCIES:
+  - CoreCharts
+
+SPEC REPOS:
+  trunk:
+    - CoreCharts
+
+SPEC CHECKSUMS:
+  CoreCharts: 272212b61c5f84406eaf1d67ba47891f3aaf44db
+
+PODFILE CHECKSUM: c997e9c0a19a247c7e43a1f9dce22e83aca030a3
+
+COCOAPODS: 1.15.2

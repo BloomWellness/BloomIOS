@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DD95C236-0A35-40F8-8839-C71F85028732"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76EEE5D1-927D-4E58-A3E0-31D97CF15DFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "login()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76EEE5D1-927D-4E58-A3E0-31D97CF15DFD - 6ebb8a8d644e9240"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.LoginViewModel.login() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "76EEE5D1-927D-4E58-A3E0-31D97CF15DFD - 6ebb8a8d644e9240"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.LoginViewModel.login() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+               <Location
+                  uuid = "76EEE5D1-927D-4E58-A3E0-31D97CF15DFD - 56707d4193e21768"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.LoginViewModel.login() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "76EEE5D1-927D-4E58-A3E0-31D97CF15DFD - 56707d4193e21768"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.LoginViewModel.login() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7249131-9072-44DA-8F25-D124AE2C3238"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "login()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBB5D22D-D072-4F92-A775-6D5E722C625A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "login()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BBB5D22D-D072-4F92-A775-6D5E722C625A - 6ebb8a8d644e9134"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.LoginViewModel.login() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1848">
+               </Location>
+               <Location
+                  uuid = "BBB5D22D-D072-4F92-A775-6D5E722C625A - 6ebb8a8d644e9134"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.LoginViewModel.login() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "2164">
+               </Location>
+               <Location
+                  uuid = "BBB5D22D-D072-4F92-A775-6D5E722C625A - 56707d4193e215dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.LoginViewModel.login() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1848">
+               </Location>
+               <Location
+                  uuid = "BBB5D22D-D072-4F92-A775-6D5E722C625A - 56707d4193e215dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.LoginViewModel.login() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "2164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "912EBDD8-324C-42AC-9F36-12F0508CD8E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "login()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BA2218F-1089-48AB-A4E1-0A7975DF3CAF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "login()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F966475E-DCD6-471B-B1DF-26062E28BE0A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/ForgotPasswordViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "sendButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F966475E-DCD6-471B-B1DF-26062E28BE0A - 43700a4f4f1ccbf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.ForgotPasswordViewController.sendButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/ForgotPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "F966475E-DCD6-471B-B1DF-26062E28BE0A - a3678702886d5da8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ForgotPasswordViewController.sendButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/ForgotPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "F966475E-DCD6-471B-B1DF-26062E28BE0A - 43700a4f4f1ccbd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.ForgotPasswordViewController.sendButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/ForgotPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "F966475E-DCD6-471B-B1DF-26062E28BE0A - edf5a33b958982a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.ForgotPasswordViewController.sendButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/ForgotPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C079397A-2D8F-4E9F-9216-0C12A2FF54CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/ForgotPasswordViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "sendButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C079397A-2D8F-4E9F-9216-0C12A2FF54CB - a3678702886d5d24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ForgotPasswordViewController.sendButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/ForgotPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "C079397A-2D8F-4E9F-9216-0C12A2FF54CB - a3678702886d5d24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ForgotPasswordViewController.sendButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/ForgotPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "C079397A-2D8F-4E9F-9216-0C12A2FF54CB - a3678702886d5d24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ForgotPasswordViewController.sendButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/ForgotPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "C079397A-2D8F-4E9F-9216-0C12A2FF54CB - de22e7652f81491"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ForgotPasswordViewController.sendButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/ForgotPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "C079397A-2D8F-4E9F-9216-0C12A2FF54CB - de22e7652f81491"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.ForgotPasswordViewController.sendButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/ForgotPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DB0A8CE-3ACE-4947-A216-B03F7DEFF119"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/SignupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "buttonCreateTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CD72D0D-DA54-425B-9B16-496A235F2E3D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/SignupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "buttonCreateTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9CD72D0D-DA54-425B-9B16-496A235F2E3D - 4b4d8fe176cc09e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.SignupViewController.buttonCreateTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "2220">
+               </Location>
+               <Location
+                  uuid = "9CD72D0D-DA54-425B-9B16-496A235F2E3D - df724765927f6fe2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.SignupViewController.buttonCreateTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "9CD72D0D-DA54-425B-9B16-496A235F2E3D - df724765927f6fe2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.SignupViewController.buttonCreateTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "9CD72D0D-DA54-425B-9B16-496A235F2E3D - b98c56b138ad30cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.SignupViewController.buttonCreateTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "2220">
+               </Location>
+               <Location
+                  uuid = "9CD72D0D-DA54-425B-9B16-496A235F2E3D - 2db39e35dc1e56ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.SignupViewController.buttonCreateTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "592828CB-C8A3-4119-BBED-33F82B5D0EBA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/SignupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "presentOTPInputAlert()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "592828CB-C8A3-4119-BBED-33F82B5D0EBA - bd789dfb24253dfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bloom.SignupViewController.presentOTPInputAlert() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "592828CB-C8A3-4119-BBED-33F82B5D0EBA - a2734a03481422bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in Bloom.SignupViewController.presentOTPInputAlert() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "592828CB-C8A3-4119-BBED-33F82B5D0EBA - 6f19ef5b8891df02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in closure #2 (__C.UIAlertAction) -&gt; () in Bloom.SignupViewController.presentOTPInputAlert() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "592828CB-C8A3-4119-BBED-33F82B5D0EBA - 6f19ef5b8891df02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in closure #2 (__C.UIAlertAction) -&gt; () in Bloom.SignupViewController.presentOTPInputAlert() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "592828CB-C8A3-4119-BBED-33F82B5D0EBA - 6f19ef5b8891df63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in closure #2 (__C.UIAlertAction) -&gt; () in Bloom.SignupViewController.presentOTPInputAlert() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "592828CB-C8A3-4119-BBED-33F82B5D0EBA - 6f19ef5b8891df63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in closure #2 (__C.UIAlertAction) -&gt; () in Bloom.SignupViewController.presentOTPInputAlert() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "592828CB-C8A3-4119-BBED-33F82B5D0EBA - 9dd8360bc6f0f60b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in closure #2 (__C.UIAlertAction) -&gt; () in Bloom.SignupViewController.presentOTPInputAlert() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "592828CB-C8A3-4119-BBED-33F82B5D0EBA - 9dd8360bc6f0f60b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in closure #2 (__C.UIAlertAction) -&gt; () in Bloom.SignupViewController.presentOTPInputAlert() -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "817BDDA0-608D-47DB-87A8-167A64EA1AA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/View/Auth/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "loginButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "817BDDA0-608D-47DB-87A8-167A64EA1AA6 - 2aa7f6d4cf2d5eda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.LoginViewController.loginButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "817BDDA0-608D-47DB-87A8-167A64EA1AA6 - 9a3c78682b915430"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.LoginViewController.loginButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+               <Location
+                  uuid = "817BDDA0-608D-47DB-87A8-167A64EA1AA6 - 9a3c78682b915430"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.LoginViewController.loginButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1380">
+               </Location>
+               <Location
+                  uuid = "817BDDA0-608D-47DB-87A8-167A64EA1AA6 - 9a3c78682b915430"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.LoginViewController.loginButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1692">
+               </Location>
+               <Location
+                  uuid = "817BDDA0-608D-47DB-87A8-167A64EA1AA6 - 9a3c78682b915430"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.LoginViewController.loginButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/View/Auth/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+               <Location
+                  uuid = "817BDDA0-608D-47DB-87A8-167A64EA1AA6 - 366e495876577f79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; () in Bloom.LoginViewController.loginButtonTapped(Any) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/View/Auth/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B25FB26E-4023-473A-888D-93801E5F7179"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/Networking/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "performRequest(with:method:body:showLoader:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B25FB26E-4023-473A-888D-93801E5F7179 - 865b599e03ddf416"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "2468">
+               </Location>
+               <Location
+                  uuid = "B25FB26E-4023-473A-888D-93801E5F7179 - 865b599e03ddf431"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "2468">
+               </Location>
+               <Location
+                  uuid = "B25FB26E-4023-473A-888D-93801E5F7179 - 8d2c58da6c8d366e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "2468">
+               </Location>
+               <Location
+                  uuid = "B25FB26E-4023-473A-888D-93801E5F7179 - 865b599e03ddf7f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "2468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7886510-45E0-43E7-A185-577577B7CD82"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bloom/Networking/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "performRequest(with:method:body:showLoader:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7886510-45E0-43E7-A185-577577B7CD82 - 865b599e03ddf7f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "2512">
+               </Location>
+               <Location
+                  uuid = "A7886510-45E0-43E7-A185-577577B7CD82 - 865b599e03ddf7f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "2868">
+               </Location>
+               <Location
+                  uuid = "A7886510-45E0-43E7-A185-577577B7CD82 - 8d2c58da6c8d364f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Bloom/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "2512">
+               </Location>
+               <Location
+                  uuid = "A7886510-45E0-43E7-A185-577577B7CD82 - 865b599e03ddf7d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bloom.APIManager.performRequest(with: Swift.String, method: Swift.String, body: Swift.Optional&lt;Foundation.Data&gt;, showLoader: Swift.Bool, completion: (Swift.Result&lt;Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bloom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/IOS%20Projects/Bloom/Code/Bloom%202/Bloom/Networking/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "2512">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

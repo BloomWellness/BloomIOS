@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22684"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Thought2CollectionViewCell" id="gTV-IL-0wX" customClass="Thought2CollectionViewCell" customModule="Bloom" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="333" height="589"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="333" height="589"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Why do you think you believe this about yourself?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NeV-Zi-ziG">
+                        <rect key="frame" x="0.0" y="10" width="333" height="15.666666666666664"/>
+                        <fontDescription key="fontDescription" name="Arial-BoldMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="CY1-w4-kC6">
+                        <rect key="frame" x="0.0" y="30.666666666666671" width="333" height="132"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="132" id="pTB-kD-f7c"/>
+                        </constraints>
+                        <color key="textColor" systemColor="labelColor"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </textView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l1T-W1-iHP">
+                        <rect key="frame" x="253" y="172.66666666666666" width="80" height="30"/>
+                        <color key="backgroundColor" name="buttonColor"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="80" id="OCm-fb-IfU"/>
+                            <constraint firstAttribute="height" constant="30" id="PPs-Vg-zb6"/>
+                        </constraints>
+                        <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <state key="normal" title="Button"/>
+                        <buttonConfiguration key="configuration" style="plain" title="Submit"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                        <connections>
+                            <action selector="submitButtonTapped:" destination="gTV-IL-0wX" eventType="touchUpInside" id="IfT-Eb-UfV"/>
+                        </connections>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Oy-1G-ck4">
+                        <rect key="frame" x="0.0" y="222.66666666666666" width="333" height="72.666666666666657"/>
+                        <string key="text">After adding a negative belief, you can return to record evidence against it whenever you experience moments that weaken this belief. Click on the belief on the technique landing page to document evidence.
+</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AZt-DR-hQr">
+                        <rect key="frame" x="0.0" y="315.33333333333331" width="333" height="43.666666666666686"/>
+                        <string key="text">For instance, if you believed you were lazy, you could record evidence each time you engage in an active or challenging activity.</string>
+                        <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="81g-om-wUK">
+                        <rect key="frame" x="2" y="389" width="147" height="30"/>
+                        <color key="backgroundColor" name="buttonColor"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="147" id="4Y3-PX-cGA"/>
+                            <constraint firstAttribute="height" constant="30" id="iV2-XK-6md"/>
+                        </constraints>
+                        <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <state key="normal" title="Button"/>
+                        <buttonConfiguration key="configuration" style="plain" title="Save belief"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                        <connections>
+                            <action selector="saveBeliefTapped:" destination="gTV-IL-0wX" eventType="touchUpInside" id="SDp-W3-yiD"/>
+                        </connections>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="saF-pO-xOJ">
+                        <rect key="frame" x="184" y="389" width="147" height="30"/>
+                        <color key="backgroundColor" name="buttonColor"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="147" id="0gv-oo-CHA"/>
+                            <constraint firstAttribute="height" constant="30" id="x7V-vC-6OB"/>
+                        </constraints>
+                        <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <state key="normal" title="Button"/>
+                        <buttonConfiguration key="configuration" style="plain" title="Add new belief"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                        <connections>
+                            <action selector="addNewBeliefTapped:" destination="gTV-IL-0wX" eventType="touchUpInside" id="Do1-ku-v5d"/>
+                        </connections>
+                    </button>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <color key="backgroundColor" name="bgColor"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="l1T-W1-iHP" secondAttribute="trailing" id="03A-4l-OVZ"/>
+                <constraint firstItem="NeV-Zi-ziG" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="AKV-Eg-Oee"/>
+                <constraint firstItem="6Oy-1G-ck4" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="EB8-ZC-j9I"/>
+                <constraint firstAttribute="trailing" secondItem="CY1-w4-kC6" secondAttribute="trailing" id="FHd-kx-EzM"/>
+                <constraint firstItem="AZt-DR-hQr" firstAttribute="top" secondItem="6Oy-1G-ck4" secondAttribute="bottom" constant="20" id="PZH-HX-Pfd"/>
+                <constraint firstItem="NeV-Zi-ziG" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="10" id="ROI-8n-mHt"/>
+                <constraint firstAttribute="trailing" secondItem="saF-pO-xOJ" secondAttribute="trailing" constant="2" id="bTe-eV-utp"/>
+                <constraint firstItem="AZt-DR-hQr" firstAttribute="trailing" secondItem="6Oy-1G-ck4" secondAttribute="trailing" id="buY-qS-N5O"/>
+                <constraint firstItem="81g-om-wUK" firstAttribute="top" secondItem="AZt-DR-hQr" secondAttribute="bottom" constant="30" id="c8C-eL-6uv"/>
+                <constraint firstItem="81g-om-wUK" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="2" id="cX3-1R-sTL"/>
+                <constraint firstItem="CY1-w4-kC6" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="gLL-ob-FEo"/>
+                <constraint firstItem="l1T-W1-iHP" firstAttribute="top" secondItem="CY1-w4-kC6" secondAttribute="bottom" constant="10" id="hsD-V3-CeZ"/>
+                <constraint firstItem="AZt-DR-hQr" firstAttribute="leading" secondItem="6Oy-1G-ck4" secondAttribute="leading" id="jnP-zR-OEp"/>
+                <constraint firstItem="CY1-w4-kC6" firstAttribute="top" secondItem="NeV-Zi-ziG" secondAttribute="bottom" constant="5" id="pTM-2z-fx3"/>
+                <constraint firstItem="6Oy-1G-ck4" firstAttribute="top" secondItem="l1T-W1-iHP" secondAttribute="bottom" constant="20" id="qVl-EF-3Q3"/>
+                <constraint firstAttribute="trailing" secondItem="NeV-Zi-ziG" secondAttribute="trailing" id="qbu-tu-vQt"/>
+                <constraint firstItem="saF-pO-xOJ" firstAttribute="top" secondItem="AZt-DR-hQr" secondAttribute="bottom" constant="30" id="qtx-To-Yye"/>
+                <constraint firstAttribute="trailing" secondItem="6Oy-1G-ck4" secondAttribute="trailing" id="zVg-o8-IFA"/>
+            </constraints>
+            <connections>
+                <outlet property="addNewBeliefButton" destination="saF-pO-xOJ" id="aEh-sI-PLG"/>
+                <outlet property="saveBeliefButton" destination="81g-om-wUK" id="rbc-jr-3x5"/>
+                <outlet property="submitButton" destination="l1T-W1-iHP" id="RY5-dl-vVO"/>
+            </connections>
+            <point key="canvasLocation" x="130.53435114503816" y="-11.619718309859156"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <namedColor name="bgColor">
+            <color red="0.94099998474121094" green="0.9179999828338623" blue="0.83899998664855957" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="buttonColor">
+            <color red="0.60799998044967651" green="0.68599998950958252" blue="0.71799999475479126" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+        </namedColor>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
